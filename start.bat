@@ -24,9 +24,11 @@ if %errorlevel% neq 0 (
     goto wait_for_streamlit
 )
 
-echo ✅ Streamlit pronto no container %CONTAINER_NAME%!
+echo Streamlit pronto no container %CONTAINER_NAME%!
 
-echo ✅ Container em execucao!
+echo Container em execucao!
+
+timeout /t 3 > nul
 
 echo Abrindo %APP_URL% no navegador...
 start %APP_URL%
