@@ -8,7 +8,6 @@
 <p align="center">
   <img alt="Status" src="https://img.shields.io/badge/status-concluído-green" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-integrado-blue" />
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-green" />
 </p>
 
 ---
@@ -103,9 +102,3 @@
 
 **Patrick Moraes**  
 [LinkedIn](https://www.linkedin.com/in/patrick-moraes-1b231a183/) | [GitHub](https://github.com/Ozeenn)
-
----
-
-## 📝 Licença
-
-Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
